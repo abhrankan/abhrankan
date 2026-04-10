@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋, I'm Abhrankan Chakrabarti
 
-<!--
-**abhrankan/abhrankan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Exploring math, algorithms, and clean code  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💡 Curious developer who loves solving problems  
+- 🔢 Interested in mathematics, optimization, and numerical methods  
+- 💻 Working with C++, Python, and real-world applications  
+- ⚙️ Building efficient and practical tech solutions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Languages: C++, Python, Java  
+- Tools: Git, Linux, VS Code  
+- Interests: Algorithms, AI, Numerical Computing  
+
+## 📌 Featured Projects
+- 🔹 Almost Isosceles Pythagorean Triples Optimizer  
+- 🔹 Complex Calculator (C++ & Python)  
+- 🔹 Interactive Matrix Calculator  
+- 🔹 Llama CPP Chatbot  
+
+## 📫 Connect with Me
+- GitHub: https://github.com/Abhrankan-Chakrabarti
