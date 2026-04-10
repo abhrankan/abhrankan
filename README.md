@@ -14,9 +14,9 @@
 - Interests: Algorithms, AI, Numerical Computing  
 
 ## 📌 Featured Projects
-- 🔹 [Almost Isosceles Pythagorean Triples Optimizer](https://github.com/Abhrankan-Chakrabarti)  
+- 🔹 [Almost Isosceles Pythagorean Triples Optimizer](https://github.com/Abhrankan-Chakrabarti/almost-isosceles-pythagorean-triples)  
 - 🔹 [Complex Calculator (C++ & Python)](https://github.com/Abhrankan-Chakrabarti/ComplexCalculator)  
-- 🔹 [Interactive Matrix Calculator](https://github.com/Abhrankan-Chakrabarti)  
+- 🔹 [Interactive Matrix Calculator](https://github.com/Abhrankan-Chakrabarti/Interactive-Matrix-Calculator)  
 - 🔹 [Llama CPP Chatbot](https://github.com/Abhrankan-Chakrabarti/llama_cpp_chatbot)  
 
 ## 📫 Connect with Me
