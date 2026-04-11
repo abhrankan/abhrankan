@@ -45,4 +45,6 @@ My interests include number theory, numerical methods, and the design of efficie
 
 ## Contact
 
-GitHub: https://github.com/Abhrankan-Chakrabarti
+- 🌐 [GitHub](https://github.com/Abhrankan-Chakrabarti)
+
+---
