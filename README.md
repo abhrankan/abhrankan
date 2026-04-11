@@ -22,6 +22,9 @@ My interests include number theory, numerical methods, and the design of efficie
 
 ## Selected Projects
 
+- **[Catalan π Algorithm](https://github.com/Abhrankan-Chakrabarti/pi-calculation-with-catalan-numbers)**  
+  A novel computational method for approximating π using Catalan numbers  
+
 - **[Almost Isosceles Pythagorean Triples Optimizer](https://github.com/Abhrankan-Chakrabarti/almost-isosceles-pythagorean-triples)**  
   Algorithmic exploration of structured Diophantine patterns  
 
