@@ -1,6 +1,5 @@
-# Abhrankan Chakrabarti
-
-Computational Mathematics · Number Theory · Algorithm Design
+# Abhrankan Chakrabarti  
+*On the intersection of number theory and computation*
 
 ---
 
