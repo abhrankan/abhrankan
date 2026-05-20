@@ -9,6 +9,8 @@ I work at the intersection of mathematical structure and computation.
 
 My interests include number theory, numerical methods, and the design of efficient algorithms for mathematically structured problems. I focus on translating theoretical insight into precise, efficient, and computationally elegant implementations.
 
+📄 [Download Resume](https://github.com/Abhrankan-Chakrabarti/Abhrankan-Chakrabarti/raw/main/Abhrankan_Chakrabarti_Resume.pdf)
+
 ---
 
 ## Research Focus
@@ -40,13 +42,13 @@ My interests include number theory, numerical methods, and the design of efficie
 
 ## Publications / Notes
 
-- **[Calculating π with Catalan Numbers](https://abhrankan-chakrabarti.github.io/mathematics/algorithms/2024/06/21/calculating-pi)**  
+- **[Calculating π with Catalan Numbers](https://abhrankan.dpdns.org/mathematics/algorithms/2024/06/21/calculating-pi)**  
   An exposition of a Catalan-number-based approach to π computation and its numerical properties.
 
-- **[The Golden Ratio](https://abhrankan-chakrabarti.github.io/2024/07/21/the-golden-ratio.html)**  
+- **[The Golden Ratio](https://abhrankan.dpdns.org/2024/07/21/the-golden-ratio.html)**  
   A study of the mathematical structure and significance of φ across different domains.
 
-- **[History of Cryptography](https://abhrankan-chakrabarti.github.io/2024/07/10/history-of-cryptography.html)**  
+- **[History of Cryptography](https://abhrankan.dpdns.org/2024/07/10/history-of-cryptography.html)**  
   A historical and conceptual overview of cryptographic systems and their evolution.
 
 ---
