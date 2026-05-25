@@ -38,6 +38,9 @@ My interests include number theory, numerical methods, and the design of efficie
 - **[LlamaInteract](https://github.com/Abhrankan-Chakrabarti/LlamaInteract)**  
   Local large language model interaction system built using llama.cpp for efficient on-device inference.
 
+- **[Winternship 2025 Case Studies](https://github.com/Abhrankan-Chakrabarti/Internship_caseStudies)**  
+  Full MERN stack training — TypeScript, React (Vite), MongoDB (ACID transactions), and Express.js REST APIs with MVC architecture.
+
 ---
 
 ## Publications / Notes
@@ -55,9 +58,11 @@ My interests include number theory, numerical methods, and the design of efficie
 
 ## Tools & Environment
 
-- **Languages:** C++, Python, Java  
-- **Systems:** Linux, Git  
-- **Editor:** VS Code  
+- **Languages:** C++, Python, Java, TypeScript, JavaScript
+- **Web & Backend:** React (Vite), Node.js, Express.js, MongoDB
+- **AI / ML:** NumPy, Pandas, scikit-learn, Gemini Pro Vision, DALL-E 3, llama.cpp
+- **Systems:** Linux, Git
+- **Editor:** VS Code
 
 ---
 
