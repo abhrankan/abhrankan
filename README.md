@@ -1,73 +1,37 @@
-# Abhrankan Chakrabarti  
-*On the intersection of number theory and computation*
+# abhrankan
+
+Building things on the edges of the web.
 
 ---
 
-## About
+## Tor Hidden Services
 
-I work at the intersection of mathematical structure and computation.
+Static, JS-free sites hosted on the Tor network.
 
-My interests include number theory, numerical methods, and the design of efficient algorithms for mathematically structured problems. I focus on translating theoretical insight into precise, efficient, and computationally elegant implementations.
+| # | Project | Description |
+|---|---------|-------------|
+| 1 | [Deergrit](http://ftk4x6klwl5uwkgk75smxlod5hvxy4ayjct42vicubivznxjx5fyilyd.onion/deergrit/) | Knowledge archive — digital systems explained calmly |
+| 2 | [FantasyCrop](http://ftk4x6klwl5uwkgk75smxlod5hvxy4ayjct42vicubivznxjx5fyilyd.onion/fantasycrop/) | Static web laboratory — minimal attack surface experiments |
+| 3 | [Flatspoil](http://ftk4x6klwl5uwkgk75smxlod5hvxy4ayjct42vicubivznxjx5fyilyd.onion/flatspoil/) | Plain explanations for things usually oversold or overcomplicated |
+| 4 | [Luggage Ice](http://senpjoekkf4hlth6ej5lyqoizi62ois6u44zpd5vucuzo3w4sz4tw3qd.onion/luggageice/) | Technical essays on static architecture and restraint-driven design |
+| 5 | [RallyMean](http://senpjoekkf4hlth6ej5lyqoizi62ois6u44zpd5vucuzo3w4sz4tw3qd.onion/rallymean/) | Interactive signal environment — not designed to be solved |
+| 6 | [Videoonly](http://ftk4x6klwl5uwkgk75smxlod5hvxy4ayjct42vicubivznxjx5fyilyd.onion/videoonly/) | Anonymous confession archive — submission by PGP only |
 
-📄 [Download Resume](https://github.com/Abhrankan-Chakrabarti/Abhrankan-Chakrabarti/raw/main/Abhrankan_Chakrabarti_Resume.pdf)
-
----
-
-## Research Focus
-
-- Algorithmic Number Theory  
-- Numerical Methods & High-Precision Computation  
-- Structure-driven Algorithm Design  
-
----
-
-## Selected Work
-
-- **[Catalan π Algorithm](https://github.com/Abhrankan-Chakrabarti/pi-calculation-with-catalan-numbers)**  
-  A novel computational framework for approximating π based on Catalan number structures, emphasizing deterministic convergence and fixed-point arithmetic efficiency.
-
-- **[Almost Isosceles Pythagorean Triples Optimizer](https://github.com/Abhrankan-Chakrabarti/almost-isosceles-pythagorean-triples)**  
-  An optimized recurrence-based method for generating structured Diophantine triples with near-isosceles properties.
-
-- **[Complex Calculator](https://github.com/Abhrankan-Chakrabarti/ComplexCalculator)**  
-  Implementation of complex arithmetic systems in C++ and Python with a focus on precision and usability.
-
-- **[Interactive Matrix Calculator](https://github.com/Abhrankan-Chakrabarti/Interactive-Matrix-Calculator)**  
-  Computational tool for matrix operations with an emphasis on clarity and algorithmic correctness.
-
-- **[LlamaInteract](https://github.com/Abhrankan-Chakrabarti/LlamaInteract)**  
-  Local large language model interaction system built using llama.cpp for efficient on-device inference.
-
-- **[Winternship 2025 Case Studies](https://github.com/Abhrankan-Chakrabarti/Internship_caseStudies)**  
-  Full MERN stack training — TypeScript, React (Vite), MongoDB (ACID transactions), and Express.js REST APIs with MVC architecture.
+> Requires [Tor Browser](https://www.torproject.org/download/)
 
 ---
 
-## Publications / Notes
+## Clearnet
 
-- **[Calculating π with Catalan Numbers](https://abhrankan.dpdns.org/mathematics/algorithms/2024/06/21/calculating-pi)**  
-  An exposition of a Catalan-number-based approach to π computation and its numerical properties.
-
-- **[The Golden Ratio](https://abhrankan.dpdns.org/2024/07/21/the-golden-ratio.html)**  
-  A study of the mathematical structure and significance of φ across different domains.
-
-- **[History of Cryptography](https://abhrankan.dpdns.org/2024/07/10/history-of-cryptography.html)**  
-  A historical and conceptual overview of cryptographic systems and their evolution.
+| # | Project | Description |
+|---|---------|-------------|
+| 1 | [RallyMean](https://rallymean.netlify.app) | Signal environment — surface layer |
+| 2 | [Signal vs Noise](https://signalvsnoise.netlify.app) | Multi-node ARG — learn to observe the system |
 
 ---
 
-## Tools & Environment
+## Philosophy
 
-- **Languages:** C++, Python, Java, TypeScript, JavaScript
-- **Web & Backend:** React (Vite), Node.js, Express.js, MongoDB
-- **AI / ML:** NumPy, Pandas, scikit-learn, Gemini Pro Vision, DALL-E 3, llama.cpp
-- **Systems:** Linux, Git
-- **Editor:** VS Code
+No tracking. No JavaScript (where it isn't the mechanic). No dynamic backends. No unnecessary complexity.
 
----
-
-## Contact
-
-- 🌐 [GitHub](https://github.com/Abhrankan-Chakrabarti)
-
----
+Static where possible. Minimal always.
