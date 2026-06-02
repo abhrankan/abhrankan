@@ -1,37 +1,97 @@
 # abhrankan
 
-Building things on the edges of the web.
+> Building things on the edges of the web.
+
+Static systems. Hidden services. Alternate narratives. Minimal infrastructure.
+
+---
+
+## What You'll Find Here
+
+This account hosts projects that don't fit traditional software categories:
+
+- Tor hidden services
+- Experimental web environments
+- ARGs and signal systems
+- Anonymous publishing platforms
+- Static-first architecture
+- Privacy-focused design
 
 ---
 
 ## Tor Hidden Services
 
-Static, JS-free sites hosted on the Tor network.
+### Deergrit
 
-| # | Project | Description |
-|---|---------|-------------|
-| 1 | [Deergrit](http://ftk4x6klwl5uwkgk75smxlod5hvxy4ayjct42vicubivznxjx5fyilyd.onion/deergrit/) | Knowledge archive — digital systems explained calmly |
-| 2 | [FantasyCrop](http://ftk4x6klwl5uwkgk75smxlod5hvxy4ayjct42vicubivznxjx5fyilyd.onion/fantasycrop/) | Static web laboratory — minimal attack surface experiments |
-| 3 | [Flatspoil](http://ftk4x6klwl5uwkgk75smxlod5hvxy4ayjct42vicubivznxjx5fyilyd.onion/flatspoil/) | Plain explanations for things usually oversold or overcomplicated |
-| 4 | [Luggage Ice](http://senpjoekkf4hlth6ej5lyqoizi62ois6u44zpd5vucuzo3w4sz4tw3qd.onion/luggageice/) | Technical essays on static architecture and restraint-driven design |
-| 5 | [RallyMean](http://senpjoekkf4hlth6ej5lyqoizi62ois6u44zpd5vucuzo3w4sz4tw3qd.onion/rallymean/) | Interactive signal environment — not designed to be solved |
-| 6 | [Videoonly](http://ftk4x6klwl5uwkgk75smxlod5hvxy4ayjct42vicubivznxjx5fyilyd.onion/videoonly/) | Anonymous confession archive — submission by PGP only |
+Knowledge archive focused on explaining technical systems without hype.
 
-> Requires [Tor Browser](https://www.torproject.org/download/)
+### FantasyCrop
+
+A static web laboratory exploring minimal attack surfaces and resilient design.
+
+### Flatspoil
+
+Plain-language explanations for topics often buried beneath jargon and marketing.
+
+### Luggage Ice
+
+Essays on architecture, simplicity, restraint, and long-term maintainability.
+
+### RallyMean
+
+Interactive signal environment. Observation is more useful than interaction.
+
+### Videoonly
+
+Anonymous confession archive.
+
+Submission accepted through PGP only.
 
 ---
 
-## Clearnet
+## Clearnet Mirrors
 
-| # | Project | Description |
-|---|---------|-------------|
-| 1 | [RallyMean](https://rallymean.netlify.app) | Signal environment — surface layer |
-| 2 | [Signal vs Noise](https://signalvsnoise.netlify.app) | Multi-node ARG — learn to observe the system |
+### RallyMean
+
+https://rallymean.netlify.app
+
+Signal environment — surface layer.
+
+### Signal vs Noise
+
+https://signalvsnoise.netlify.app
+
+Multi-node ARG focused on observation, pattern recognition, and interpretation.
+
+---
+
+## Design Principles
+
+- No tracking
+- No analytics
+- No accounts
+- No unnecessary JavaScript
+- No dynamic infrastructure without a clear reason
+- Static whenever possible
 
 ---
 
 ## Philosophy
 
-No tracking. No JavaScript (where it isn't the mechanic). No dynamic backends. No unnecessary complexity.
+Most websites become more complicated over time.
 
-Static where possible. Minimal always.
+These projects move in the opposite direction.
+
+The goal is not scale.
+
+The goal is signal.
+
+---
+
+## Other Identity
+
+Main account:
+
+https://github.com/Abhrankan-Chakrabarti
+
+Mathematics • Algorithms • Computational Science
